@@ -8,5 +8,5 @@ Hi my name is Mon Alexis Manaloto
 - High School: Sto.Domingo Integrated School
 - Elementary: Sto.Domingo Integrated School
 ## My Projects
-Midterm Task 1:
+Midterm Task 1: : [Data Cleaning and Preparation using EXCEL]()
 
