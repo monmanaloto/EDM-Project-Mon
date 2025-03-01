@@ -7,3 +7,7 @@
 - Remove NULL values
 - Remove Duplicates
 ## STEP 2 Normalization
+- Performed 1NF
+- Perform Table split using 2NF
+- Perform 3 NF
+- Mapped the Normalized tables as a Physical Data Model
