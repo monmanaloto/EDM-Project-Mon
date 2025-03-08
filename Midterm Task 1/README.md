@@ -12,7 +12,7 @@
 - Perform 3 NF
 - Mapped the Normalized tables as a Physical Data Model
 ## STEP 3 Here's the screenshot of my output before I started data cleaning (See screenshot)
-  <img src="Midterm Task 1/Images/CLEAN.png" alt="Alt Text" width="400" height="300">
+  <img src="Images/RAW.png" alt="Alt Text" width="400" height="300">
   
 ## STEP 4 Here's the screenshot of my output after I started data cleaning (See screenshot)  
-  <img src="Midterm Task 1/Images/CLEAN.png" alt="Alt Text" width="400" height="300">
+  <img src="Images/CLEAN.png" alt="Alt Text" width="400" height="300">
