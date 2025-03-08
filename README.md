@@ -8,5 +8,5 @@ Hi my name is Mon Alexis Manaloto, a first-year BSIS student at City College of 
 - High School: Sto.Domingo Integrated School
 - Elementary: Sto.Domingo Integrated School
 ## My Projects
-Midterm Task 1: : [Data Cleaning and Preparation using EXCEL]()
+Midterm Task 1: : [Data Cleaning and Preparation using EXCEL](Midterm%20Task%201/README.md)
 
