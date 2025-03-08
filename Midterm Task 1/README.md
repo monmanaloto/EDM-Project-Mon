@@ -15,4 +15,6 @@
   <img src="Images/RAW.png" alt="Alt Text" width="400" height="300">
   
 ## STEP 4 Here's the screenshot of my output after I started data cleaning (See screenshot)  
-  <img src="Images/CLEAN.png" alt="Alt Text" width="400" height="300">
+  <img src="Images/CLEAN.png" alt="Alt Text" width="400" height="300">\
+
+## Here's the Physical Data Model
