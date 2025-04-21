@@ -10,4 +10,4 @@
 
 ## 3. Create Event_attendees_table
 
-<img src="Images/Events Table.png" alt="Alt Text" width="400" height="300">\
+<img src="Images/Event Attendees Table.png" alt="Alt Text" width="400" height="300">\
