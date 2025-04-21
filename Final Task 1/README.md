@@ -11,3 +11,13 @@
 ## 3. Create Event_attendees_table
 
 <img src="Images/Event Attendees Table.png" alt="Alt Text" width="400" height="300">\
+
+## 4. Create Events_sponsors table
+
+<img src="Images/Event Attendees Table.png" alt="Alt Text" width="400" height="300">\
+
+## 5. ERD
+
+<img src="Images/Event Attendees Table.png" alt="Alt Text" width="400" height="300">\
+
+## 6. Database Copy 
