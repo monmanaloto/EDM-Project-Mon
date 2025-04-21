@@ -18,6 +18,6 @@
 
 ## 5. ERD
 
-<img src="Images/Event Attendees Table.png" alt="Alt Text" width="400" height="300">\
+<img src="Images/ERD.png" alt="Alt Text" width="400" height="300">\
 
 ## 6. Database Copy 
