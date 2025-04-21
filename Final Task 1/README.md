@@ -20,4 +20,6 @@
 
 <img src="Images/ERD.png" alt="Alt Text" width="400" height="300">
 
-## 6. Database Copy 
+## 6. Database Copy
+
+[SQL Copy](https://github.com/monmanaloto/EDM-Project-Mon/blob/main/Final%20Task%201/copy)
