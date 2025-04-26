@@ -12,4 +12,5 @@ Midterm Task 1: : [Data Cleaning and Preparation using EXCEL](https://github.com
 
 
 Finals Task 1: : [Event Management](https://github.com/monmanaloto/EDM-Project-Mon/tree/main/Final%20Task%201)
+Finals Task 2: : [Transforming ER Model to Relational Tables](https://github.com/monmanaloto/EDM-Project-Mon/tree/main/Final%20Task%202)
 
