@@ -23,8 +23,8 @@
 - Submit_date (DATE, NOT NULL)
 - data (TEXT)
 
-  <img src="Images/Stu_sub.png" alt="Alt Text" width="400" height="300">
+  <img src="Images/SubMtable.png" alt="Alt Text" width="400" height="300">
 
   ## EER Diagram
 
-  <img src="Images/Stu_sub.png" alt="Alt Text" width="400" height="300">
+  <img src="Images/ERD.png" alt="Alt Text" width="400" height="300">
