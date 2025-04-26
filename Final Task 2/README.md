@@ -12,7 +12,7 @@
 - due_date (DATE, NOT NULL)
 - url (STRING, VARCHAR(255), NOT NULL)
 
-  image
+  <img src="Images/Stu_sub.png" alt="Alt Text" width="400" height="300">
 
   ## Create the Submission Table with fields
 
@@ -23,8 +23,8 @@
 - Submit_date (DATE, NOT NULL)
 - data (TEXT)
 
-  image
+  <img src="Images/Stu_sub.png" alt="Alt Text" width="400" height="300">
 
   ## EER Diagram
 
-  image
+  <img src="Images/Stu_sub.png" alt="Alt Text" width="400" height="300">
