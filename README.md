@@ -10,3 +10,6 @@ Hi my name is Mon Alexis Manaloto, a first-year BSIS student at City College of 
 ## My Projects
 Midterm Task 1: : [Data Cleaning and Preparation using EXCEL](https://github.com/monmanaloto/EDM-Project-Mon/tree/main/Midterm%20Task%201)
 
+
+Finals Task 1: : [MySQL Basis]()
+
