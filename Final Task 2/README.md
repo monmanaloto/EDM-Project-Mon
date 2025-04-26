@@ -4,7 +4,7 @@
 
 - username (STRING, VARCHAR(50), PRIMARY KEY)
 
-image
+<img src="Images/Stu_sub.png" alt="Alt Text" width="400" height="300">
 
 ## *Create the Assignment Table with fields*
 
