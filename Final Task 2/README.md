@@ -12,7 +12,7 @@
 - due_date (DATE, NOT NULL)
 - url (STRING, VARCHAR(255), NOT NULL)
 
-  <img src="Images/Stu_sub.png" alt="Alt Text" width="400" height="300">
+  <img src="Images/Assign_table.png" alt="Alt Text" width="400" height="300">
 
   ## Create the Submission Table with fields
 
