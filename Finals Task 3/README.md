@@ -22,6 +22,7 @@ For this task, we are given MySQL statements that need to be implemented.
 
 ### Here's the EER DIAGRAM
 
-<img src="Images/EER.png" alt="Alt Text" width="600" height="300">
+<img src="Images/ERD.png" alt="Alt Text" width="600" height="300">
+
 
 
