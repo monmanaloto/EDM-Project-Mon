@@ -20,13 +20,13 @@ After inserting the given data in the EmployeeSalaries table, perform the follow
 - Retrieve Department, Salary and Calculate total salary for each DEPARTMENT
 
 # Outputs:
-## 1.1.
+## 1/1
 <img src="images/1.1.png" alt="Alt Text" width="250" height="300">
 
-## 1.2.
+## 1/2
 <img src="images/1.2.png" alt="Alt Text" width="300" height="250">
 
-## 1.3.
+## 1/3
 <img src="images/1.3.png" alt="Alt Text" width="300" height="250">
 
 ## Problem 2
@@ -45,15 +45,15 @@ After inserting the given data in the EmployeeSalaries table, perform the follow
 - Retrieve the number of employees from the EmployeeData table.
 
 # Outputs:
-## 2.1.
+## 2/1
 <img src="images/2.1.png" alt="Alt Text" width="300" height="300">
 
-## 2.2.
+## 2/2
 <img src="images/2.2.png" alt="Alt Text" width="300" height="250">
 
-## 2.3.
+## 2/3
 <img src="images/2.3.png" alt="Alt Text" width="300" height="250">
 
-## 2.4.
+## 2/4
 <img src="images/2.4.png" alt="Alt Text" width="250" height="400">
 
