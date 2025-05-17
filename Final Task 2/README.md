@@ -1,6 +1,4 @@
-# Final Lab Task 2
-
-# Transforming ER Model to Relational Tables
+# Final Lab Task 2 - Transforming ER Model to Relational Tables
 
 ## *Create the Student Table with Fields*
 
